@@ -1,6 +1,6 @@
 
 # Challenge para candidatos a Backend Developers - PatagonianTech 
-** Guillermo Agustín Chiarotto**
+**Guillermo Agustín Chiarotto**
 Email: Agusgc_99@hotmail.com
 Teléfono: 2994575660
 Linkedin: https://www.linkedin.com/in/agustinchiarotto/
