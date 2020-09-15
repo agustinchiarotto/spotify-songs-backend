@@ -1,0 +1,23 @@
+{
+  "name": "patagonian",
+  "version": "1.0.0",
+  "description": "Patagonia backend test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Agustin Chiarotto",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.5",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
